@@ -1,0 +1,14 @@
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\bin\Debug\net7.0\CodigoFacilito-Imperativa-Declarativa.exe
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\bin\Debug\net7.0\CodigoFacilito-Imperativa-Declarativa.deps.json
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\bin\Debug\net7.0\CodigoFacilito-Imperativa-Declarativa.runtimeconfig.json
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\bin\Debug\net7.0\CodigoFacilito-Imperativa-Declarativa.dll
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\bin\Debug\net7.0\CodigoFacilito-Imperativa-Declarativa.pdb
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\obj\Debug\net7.0\CodigoFacilito-Imperativa-Declarativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\obj\Debug\net7.0\CodigoFacilito-Imperativa-Declarativa.AssemblyInfoInputs.cache
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\obj\Debug\net7.0\CodigoFacilito-Imperativa-Declarativa.AssemblyInfo.cs
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\obj\Debug\net7.0\CodigoFacilito-Imperativa-Declarativa.csproj.CoreCompileInputs.cache
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\obj\Debug\net7.0\CodigoFacilito-Imperativa-Declarativa.dll
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\obj\Debug\net7.0\refint\CodigoFacilito-Imperativa-Declarativa.dll
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\obj\Debug\net7.0\CodigoFacilito-Imperativa-Declarativa.pdb
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\obj\Debug\net7.0\CodigoFacilito-Imperativa-Declarativa.genruntimeconfig.cache
+C:\Users\stev2\source\repos\Imperativa-Declarativa\CodigoFacilito-Imperativa-Declarativa\obj\Debug\net7.0\ref\CodigoFacilito-Imperativa-Declarativa.dll
