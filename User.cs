@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CodigoFacilito_Imperativa_Declarativa
+﻿namespace CodigoFacilito_Imperativa_Declarativa
 {
     public class User
     {
@@ -13,20 +7,26 @@ namespace CodigoFacilito_Imperativa_Declarativa
         public int Age { get; set; }
         public string Gender { get; set; }
 
+        public User(int id, string userName, int age, string gender)
+        {
+            this.Id = id;
+            this.UserName = userName;   
+            this.Age = age;
+            this.Gender = gender;                
+        }
 
         public static List<User> Users()
         {
             return new List<User> 
             {
 
-                new User { Id = 1, UserName = "Steven", Age = 38, Gender = "male" },
-                new User { Id = 1, UserName = "Vanessa", Age = 39, Gender = "female" },
-                new User { Id = 1, UserName = "Valeria ", Age = 16, Gender = "female" },
-                new User { Id = 1, UserName = "Thiagp", Age = 7, Gender = "male" },
-
+                new User (1, "Steven",  38,  "male" ),
+                new User (2, "Vanessa",  39,  "female" ),
+                new User (3, "Valeria", 16,  "female" ),
+                new User (4, "Thiago",  7,  "male"),
+                new User (5, "Silvio",  48,  "male"),
+                new User (6, "Nora",  62,  "female")
             };
-
-
         }
 
     }

@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace CodigoFacilito_Imperativa_Declarativa
 {
-    public class Declarativo_Imperativo_LINQ_4 : User
+    public class Declarativo_Imperativo_LINQ_4 
     {
         //private static void Main(string[] args)
         //{
